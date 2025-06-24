@@ -1151,7 +1151,7 @@ class NewPages:
             <div class="package-badge">POPULAR</div>
             <div class="package-header">
                 <h3 style="color: #9400d3;">PREMIUM</h3>
-                <div class="package-price" style="color: #9400d3;">R$ 99,90</div>
+                <div class="package-price" style="color: #9400d3;">R$ 39,69</div>
                 <small>experiência completa</small>
             </div>
             <ul class="package-benefits">
