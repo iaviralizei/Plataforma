@@ -701,7 +701,7 @@ class UiService:
             
             st.markdown(f"""
             <div class="sidebar-logo-container">
-                <img src="{Config.LOGO_URL}" class="sidebar-logo" alt="Golden Pepper Logo">
+                <img src="{Config.LOGO_URL}" class="sidebar-logo" alt="">
             </div>
             """, unsafe_allow_html=True)
             
