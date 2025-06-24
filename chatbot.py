@@ -1187,7 +1187,7 @@ class NewPages:
         <div class="package-box package-extreme">
             <div class="package-header">
                 <h3 style="color: #ff0066;">EXTREME</h3>
-                <div class="package-price" style="color: #ff0066;">R$ 199,90</div>
+                <div class="package-price" style="color: #ff0066;">R$ 49,69</div>
                 <small>para verdadeiros fãs</small>
             </div>
             <ul class="package-benefits">
