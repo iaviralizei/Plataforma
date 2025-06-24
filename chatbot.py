@@ -716,10 +716,10 @@ class UiService:
             st.markdown("### Menu Exclusivo")
             
             menu_options = {
-                "Início": "home",
-                "Galeria Privada": "gallery",
-                "Mensagens": "messages",
-                "Ofertas Especiais": "offers"
+                "💋Início": "home",
+                "📷Galeria Privada": "gallery",
+                "💌Mensagens": "messages",
+                "🎀Ofertas Especiais": "offers"
             }
             
             for option, page in menu_options.items():
